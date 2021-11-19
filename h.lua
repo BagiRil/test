@@ -1,2 +1,2 @@
-local library = require(8043967622)
+local library = game:GetObjects("rbxassetid://8043967622")[1]
 return library
