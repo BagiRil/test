@@ -1,4 +1,4 @@
-local MainModule = Game:GetObjects("rbxassetid://7974127463")[1]
+local MainModule = Game:GetObjects("rbxassetid://8043967622")[1]
 
 local function GetModule(Module)
 	return loadstring(MainModule[Module].Source)()
