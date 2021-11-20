@@ -1,3 +1,3 @@
-local library = game:GetObjects("rbxassetid://8043967622")[1]
+local Library = loadstring(Game:GetObjects("rbxassetid://7974127463")[1].Source)()
 
-library:LOL()
+Library:LOL()
